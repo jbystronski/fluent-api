@@ -1,0 +1,12 @@
+{
+	"name": "@repo/fluent-api",
+	"version": "0.0.1",
+	"type": "module",
+	"main": "./index.ts",
+	"exports": {
+		".": "./index.ts",
+		"./types": "./types.d.ts",
+		"./fluent": "./src/main.ts"
+	},
+	"types": "./types.d.ts"
+}
